@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 
 ##
-# Perl DoS by Mefus & Ging3r Carr0t
+# Perl DoS by Mefus & MrJSec
 # RIP Mefus <3
 # Usage <ip> <port> <packet size> <time>
 ##
